@@ -1,0 +1,1 @@
+Codigo de web scraping para coleta automática da cotação do dólar diario do banco central ao longo de um mês, onde os dados são salvos em uma planilha csv e o valor mínimo, máximo e médio dos valores são visualizados (https://www.bcb.gov.br/)
